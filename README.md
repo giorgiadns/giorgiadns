@@ -1,5 +1,5 @@
-## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apigiorgiadns=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+## Hi there 👋!
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?giorgiadns=anuraghazra&show_icons=true&theme=onedark)
 <!--
 **giorgiadns/giorgiadns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
