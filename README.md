@@ -8,7 +8,7 @@
 ## Hi! My name is Giorgia and I am a BSc in information engineering, computer science branch. Welcome to my GitHub profile, here you will find some small programs that I develop in my free time. Nothing serious, for now...
 
   <div align="center">
-  <h2>My GitHub Stats</h2>
+  <h2>My GitHub Stats 📊</h2>
   <table border="0">
     <tr>
       <td>
