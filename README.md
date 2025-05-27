@@ -3,9 +3,8 @@
 ## Hi! My name is Giorgia and I am a BSc in information engineering, computer science branch.
 ## Welcome to my GitHub profile, here you will find some small programs that I develop in my free time. Nothing serious, for now...
 
-<center>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giorgiadns&show_icons=true&theme=synthwave&hide=stars,issues)
-</center>
+<br/>
 ![](https://komarev.com/ghpvc/?username=giorgiadns)
 
 
