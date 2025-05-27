@@ -4,7 +4,7 @@
 ## Welcome to my GitHub profile, here you will find some small programs that I develop in my free time. Nothing serious, for now...
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giorgiadns&show_icons=true&theme=synthwave&hide=stars,issues" />
+  <img src="https://github-readme-stats.vercel.app/api?username=giorgiadns&show_icons=true&theme=synthwave&hide=stars,issues" /> <br/>
   <img src="https://komarev.com/ghpvc/?username=giorgiadns&color=ff69b4&style=for-the-badge" />
 </p>
 
