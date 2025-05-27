@@ -9,7 +9,6 @@
 
 <p align="center">
   <h2>My GitHub stats</h2>
-  <hr>
   <img src="https://github-readme-stats.vercel.app/api?username=giorgiadns&show_icons=true&theme=synthwave&hide=stars,issues" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giorgiadns&hide_progress=true&layout=compact&theme=synthwave" height="150" />
   <br/>
