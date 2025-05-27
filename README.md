@@ -18,6 +18,11 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giorgiadns&hide_progress=true&layout=compact&theme=synthwave" height="150"/>
       </td>
     </tr>
+    <tr>
+      <td colspan='2'> 
+      <img src="https://github.com/giorgiadns/giorgiadns/blob/output/github-contribution-grid-snake.svg" />
+      </td>
+    </tr>
   </table>
 </div>
 
