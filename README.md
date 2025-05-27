@@ -1,4 +1,6 @@
-![Header](./banner3.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/giorgiadns/giorgiadns/main/banner3.png" />
+</p>
 
 ## Hi! My name is Giorgia and I am a BSc in information engineering, computer science branch.
 ## Welcome to my GitHub profile, here you will find some small programs that I develop in my free time. Nothing serious, for now...
