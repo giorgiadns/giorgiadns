@@ -9,8 +9,8 @@
 ## Welcome to my GitHub profile, here you will find some small programs that I develop in my free time. Nothing serious, for now...
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=giorgiadns&show_icons=true&theme=synthwave&hide=stars,issues" height="100" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giorgiadns&hide_progress=true&layout=compact&theme=synthwave" height="100" />
+  <img src="https://github-readme-stats.vercel.app/api?username=giorgiadns&show_icons=true&theme=synthwave&hide=stars,issues" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giorgiadns&hide_progress=true&layout=compact&theme=synthwave" height="200" />
   <br/>
 </p>
 
