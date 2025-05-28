@@ -18,6 +18,11 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giorgiadns&hide_progress=true&layout=compact&theme=synthwave" height="150"/>
       </td>
     </tr>
+     <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/giorgiadns/giorgiadns/main/banner4.png"/>
+      </td>
+    </tr>
   </table>
 </div>
 
