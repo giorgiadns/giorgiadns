@@ -19,8 +19,8 @@
       </td>
     </tr>
      <tr>
-      <td>
-        <img src="https://raw.githubusercontent.com/giorgiadns/giorgiadns/main/banner4.png"/>
+      <td colspan="2">
+        <img src="https://raw.githubusercontent.com/giorgiadns/giorgiadns/main/banner4.gif"/>
       </td>
     </tr>
   </table>
