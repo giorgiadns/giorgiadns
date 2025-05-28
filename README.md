@@ -18,11 +18,6 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giorgiadns&hide_progress=true&layout=compact&theme=synthwave" height="150"/>
       </td>
     </tr>
-    <tr>
-      <td>
-        <img src="https://github.com/sudoshivesh/sudoshivesh7snake-eating-contribution-graph/img/github-contribution-grid-snake.gif" />
-      </td>
-    </tr>
   </table>
 </div>
 
