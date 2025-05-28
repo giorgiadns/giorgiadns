@@ -20,7 +20,7 @@
     </tr>
      <tr>
       <td colspan="2">
-        <img src="https://raw.githubusercontent.com/giorgiadns/giorgiadns/main/banner4.gif"/>
+        <img width="100%" src="https://raw.githubusercontent.com/giorgiadns/giorgiadns/main/banner4.gif"/>
       </td>
     </tr>
   </table>
