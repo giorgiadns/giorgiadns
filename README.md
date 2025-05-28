@@ -9,7 +9,7 @@
 
   <div align="center">
   <h2>My GitHub Stats 📊</h2>
-  <table border="0">
+  <table border="0" width="100%">
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=giorgiadns&show_icons=true&theme=synthwave&hide=issues" height="150"/>
