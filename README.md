@@ -20,7 +20,7 @@
     </tr>
     <tr>
       <td>
-        <img src="https://github.com/sudoshivesh/sudoshivesh/blob/output/github-contribution-grid-snake.gif" />
+        <img src="https://github.com/sudoshivesh/sudoshivesh/blob/img/github-contribution-grid-snake.gif" />
       </td>
     </tr>
   </table>
